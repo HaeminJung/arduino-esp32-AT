@@ -1,3 +1,9 @@
+/*
+*  This is an example using BG96 as the modem
+*
+*/
+
+
 #include<atIssue.h>
 
 AtIssue at;
