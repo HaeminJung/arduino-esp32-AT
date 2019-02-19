@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Blink
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AtIssue KEYWORD1
+atIssue KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendCommand KEYWORD2
+readSerial KEYWORD2
+error_check KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+ARRAYSIZE LITERAL1
+OK LITERAL1
+ERROR LITERAL1
